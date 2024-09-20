@@ -1,4 +1,1 @@
-require("Julian")
-vim.o.number = true
-
-
+require('julian')
